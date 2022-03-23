@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @professorgraf
 - 👀 I’m interested in AI, Semantics, Medical Imaging, Computer Science in general
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on biology imaging plattforms
+- 💞️ I’m looking to collaborate on biology and imaging plattforms
 - 📫 How to reach me ...
 
 <!---
