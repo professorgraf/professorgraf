@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @professorgraf
 - 👀 I’m interested in AI, Semantics, Medical Imaging, Computer Science in general
-- 🌱 I’m currently learning how to use reinforcement learning efficiently
-- 💞️ I’m looking to collaborate on biology and imaging plattforms, AI related research, and much more
+- 🌱 I’m currently learning: how to use reinforcement learning efficiently
+- 💞️ I’m looking to collaborate on biology and imaging plattforms, AI related research, robotic assistents, and much more
 - 📫 How to reach me: Instagram - @professorgraf
 
 <!---
