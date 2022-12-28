@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @professorgraf
 - 👀 I’m interested in AI, Semantics, Medical Imaging, Computer Science in general
-- 🌱 I’m currently learning: how to use reinforcement learning efficiently
+- 🌱 I’m currently working on n roomba based robotic assistant, combining in-built sensor data with external LiDAR technology
 - 💞️ I’m looking to collaborate on biology and imaging plattforms, AI related research, robotic assistents, and much more
 - 📫 How to reach me: Instagram - @professorgraf
 
